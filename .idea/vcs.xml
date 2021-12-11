@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IDcard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IDcard/src/Spelling_Correction_Vietnamese" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IDcard/src/ocr/vietocr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/extract-information-from-identity-card" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/py_ocr" vcs="Git" />
+  </component>
+</project>
